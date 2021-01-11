@@ -7,7 +7,7 @@ Infection data for the world animation is the daily number of new reported COVID
 
 Similar animations can likewise be made for regions in the European union or municipalities on a country level. 
 ![](Images/EU_Covid-19_timeseries.gif)   |  ![](Images/DK_Covid-19_timeseries_EN.gif)
-:--------------------------------------:|:--------------------------------------:
+:---:|:---:
 
 
 
