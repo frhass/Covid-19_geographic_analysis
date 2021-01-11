@@ -7,6 +7,8 @@ Infection data for the world animation is the daily number of new reported COVID
 
 Similar animations can likewise be made for regions in the European union or municipalities on a country level. 
 Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+
 
 
 ## Exploratory Data Analysis (ESDA) - Spatial Autocorrelation
