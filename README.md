@@ -15,7 +15,7 @@ Data on daily municipal infection rates in Denmark are from [Statens Serum Insti
 To ensure a fixed legend a dummy feature is included in the data and in the shapefile outside the mapview. Find shapefiles and CSV-files in the *Data* folder, the animation scripts are located in the *Notebook/Animations* folder.
 
 ## Exploratory Data Analysis (ESDA) - Spatial Autocorrelation
-![](Images/EU_Hot_&_Cold_Spots.png)
+The spatial autocorrelation analysis checks for spatial distribution of the infection rates in the included regions. The tool locates hot- and coldspots of infection rates, together with doughnuts and diamonds  - being regions with low infection rates sorrounded by high infection rates and vice versa. 
 
 ![](Images/EU_Hot_&_Cold_Spots.png) | ![](Images/EU_Hot_&_Cold_Spots.png)
 :---:|:---:
