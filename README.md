@@ -6,8 +6,8 @@ Infection data for the world animation is the daily number of new reported COVID
 ![](Images/World_Covid-19_timeseries.gif)
 
 Similar animations can likewise be made for regions in the European union or municipalities on a country level. 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
+![](Images/World_Covid-19_timeseries.gif)   |  ![](Images/World_Covid-19_timeseries.gif)
+:------------------------------------------:|:------------------------------------------:
 
 
 
