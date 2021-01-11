@@ -9,7 +9,10 @@ Similar animations can likewise be made for regions in the European union or mun
 ![](Images/EU_Covid-19_timeseries.gif)   |  ![](Images/DK_Covid-19_timeseries_EN.gif)
 :---:|:---:
 
+Bi-weekly infection rates for the European Regions are from the 'Data on the weekly subnational 14-day notification rate of new COVID-19 cases' from the [ECDC](https://www.ecdc.europa.eu/en/publications-data/weekly-subnational-14-day-notification-rate-covid-19). <br> 
+Data on daily municipal infection rates in Denmark are from [Statens Serum Institut (SSI)](https://covid19.ssi.dk/overvagningsdata/download-fil-med-overvaagningdata) <br> 
 
+To ensure a fixed legend a dummy feature is included in the data and the shapefile outside the mapview. Find shapefiles and CSV-files in the data folder, the animation scripts are located in the Notebook/Animations folder.
 
 ## Exploratory Data Analysis (ESDA) - Spatial Autocorrelation
 
