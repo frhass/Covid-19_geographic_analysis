@@ -25,6 +25,6 @@ The spatial autocorrelation notebook contains tools to carry out the analysis. U
 
 ## Emerging Hotspot Analysis
 
-<center><img src="Images/EU_Emerging_Hotspots_75.png" width="80%" height="80%"></center>
+<img src="Images/EU_Emerging_Hotspots_75.png" width="80%" height="80%">
 
 ## Machine Learning Prediction
