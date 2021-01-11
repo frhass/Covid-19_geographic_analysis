@@ -5,6 +5,11 @@ Visualizing Covid-19 infection rates over time can be done in a single animation
 Infection data for the world animation is the daily number of new reported COVID-19 cases and deaths worldwide from the [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
 ![](Images/World_Covid-19_timeseries.gif)
 
+Similar animations can likewise be made for regions in the European union or municipalities on a country level. 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](Images/World_Covid-19_timeseries.gif)  |  ![](Images/World_Covid-19_timeseries.gif)
+
 ## Exploratory Data Analysis (ESDA) - Spatial Autocorrelation
 
 ## Emerging Hotspot Analysis
