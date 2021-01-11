@@ -17,6 +17,9 @@ To ensure a fixed legend a dummy feature is included in the data and in the shap
 ## Exploratory Data Analysis (ESDA) - Spatial Autocorrelation
 ![](Images/EU_Hot_&_Cold_Spots.png)
 
+![](Images/EU_Hot_&_Cold_Spots.png) | ![](Images/EU_Hot_&_Cold_Spots.png)
+:---:|:---:
+
 ## Emerging Hotspot Analysis
 
 ## Machine Learning Prediction
