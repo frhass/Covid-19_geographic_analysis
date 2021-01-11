@@ -17,7 +17,7 @@ To ensure a fixed legend a dummy feature is included in the data and in the shap
 ## Exploratory Data Analysis (ESDA) - Spatial Autocorrelation
 The spatial autocorrelation analysis checks for spatial distribution of the infection rates in the included regions. The tool locates hot- and coldspots of infection rates, together with doughnuts and diamonds  - being regions with low infection rates sorrounded by high infection rates and vice versa. 
 
-![](Images/EU_Hot_&_Cold_Spots.png) | ![](Images/EU_Hot_&_Cold_Spots.png)
+![](Images/EU_Hot_&_Cold_Spots.png) | ![](Images/ESDA_EU_Covid-19_timeseries.gif)
 :---:|:---:
 
 ## Emerging Hotspot Analysis
