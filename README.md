@@ -15,6 +15,7 @@ Data on daily municipal infection rates in Denmark are from [Statens Serum Insti
 To ensure a fixed legend a dummy feature is included in the data and in the shapefile outside the mapview. Find shapefiles and CSV-files in the *Data* folder, the animation scripts are located in the *Notebook/Animations* folder.
 
 ## Exploratory Data Analysis (ESDA) - Spatial Autocorrelation
+![](Images/EU_Hot_&_Cold_Spots.png)
 
 ## Emerging Hotspot Analysis
 
