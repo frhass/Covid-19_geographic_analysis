@@ -21,7 +21,7 @@ The spatial autocorrelation analysis checks for spatial distribution of the infe
 :---:|:---:
 
 The spatial autocorrelation analysis can be done with accumulated infection rates with the purpose of locating the clusters of the pandemic as a whole. To visualize how the patterns of clusters has changed over time, all the individual time steps can be visualized in a single animations. <br>
-The spatial autocorrelation notebook contains tools to carry out the analysis. Under *Notebooks/Animations* is a script for making a hot- and coldspot animation.
+The spatial autocorrelation notebook contains tools to carry out the analysis. Under *Notebooks/Animations* is the script for making a hot- and coldspot animation.
 
 ## Emerging Hotspot Analysis
 
