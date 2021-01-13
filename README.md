@@ -28,6 +28,9 @@ The emerging hotspot analysis, inspired by [ESRI](https://pro.arcgis.com/en/pro-
 
 <img src="Images/EU_Emerging_Hotspots.png" width="80%" height="80%">
 
+text
 
+![](Images/DK_August_Emerging_Hotspots.png) | ![](Images/DK_November_Emerging_Hotspots.png)
+:---:|:---:
 
 ## Machine Learning Prediction
