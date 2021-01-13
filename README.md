@@ -36,4 +36,6 @@ The emerging hotspot analysis can be implemted over different timespans, as long
 ## Geographic Weighted Regression
 A notebook for Geographic Weighted Regression is located in the Notebook folder. This notebook inputs a shapefile with infection numbers and a set of variables and outputs GWR statistics together with maps of variable significance, coefficients and GWR evaluation metrics (Local R2, Standardized Residuals and Condition Number)
 
+![](Images/Sig_alpha_p-values.PNG)
+
 ## Machine Learning Prediction
