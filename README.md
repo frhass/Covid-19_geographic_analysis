@@ -37,7 +37,7 @@ The emerging hotspot analysis can be implemted over different timespans, as long
 A notebook for Geographic Weighted Regression is located in the Notebook folder. This notebook inputs a shapefile with infection numbers and a set of variables and outputs GWR statistics together with maps of variable significance, coefficients and GWR evaluation metrics (Local R2, Standardized Residuals and Condition Number)
 
 <img src="Images/GWR_Sig-Variables.PNG" width="80%" height="80%">
-Plotting how and where the 5 most signifcant variables are explanatory in explaining regional infection rates.
+Plotting how and where the 5 most signifcant variables are explanatory in explaining regional infection rates. Below are examples of the evaluation metric plots that can be created in the notebook.
 
 ![](Images/GWR_Eval-Metrics.png)
 
