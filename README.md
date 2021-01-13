@@ -39,4 +39,6 @@ A notebook for Geographic Weighted Regression is located in the Notebook folder.
 <img src="Images/GWR_Sig-Variables.PNG" width="80%" height="80%">
 Plotting how and where the 5 most signifcant variables are explanatory in explaining regional infection rates.
 
+![](Images/GWR_Eval-Metrics.png)
+
 ## Machine Learning Prediction
