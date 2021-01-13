@@ -28,7 +28,7 @@ The emerging hotspot analysis, inspired by [ESRI](https://pro.arcgis.com/en/pro-
 
 <img src="Images/EU_Emerging_Hotspots.png" width="80%" height="80%">
 
-text
+The emerging hotspot analysis can be implemted over different timespans, as long as a reasonable number of time steps are included. The tools is very usefull in identifying the different categories of hot and coldspots and hereby also locate emerging hot and coldspots, this could for example be done by looking at daily infection rates one month back.
 
 ![](Images/DK_August_Emerging_Hotspots.png) | ![](Images/DK_November_Emerging_Hotspots.png)
 :---:|:---:
