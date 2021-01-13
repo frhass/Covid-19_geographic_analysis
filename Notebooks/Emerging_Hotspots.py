@@ -107,7 +107,7 @@ for week, week_name in zip(list_of_weeks, week_names):
     
 # spacetime_df have spatial autocorrelation results each week, calculate emerging hotspots in new column
 nr_weeks = len(list_of_weeks)
-week_max = int(len(list_of_weeks) * 0.55)
+week_max = int(len(list_of_weeks) * 0.75)
 week_min = int(nr_weeks - week_max)
 
 
