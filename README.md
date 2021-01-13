@@ -24,7 +24,7 @@ The spatial autocorrelation analysis can be done with accumulated infection rate
 The spatial autocorrelation notebook contains tools to carry out the analysis. Under *Notebooks/Animations* is the script for making a hot- and coldspot animation.
 
 ## Emerging Hotspot Analysis
-The emerging hotspot analysis, inspired by [ESRI](https://pro.arcgis.com/en/pro-app/latest/tool-reference/space-time-pattern-mining/emerginghotspots.htm) , is a method that utilize a three dimensional data set to locate clusters through both time and space. By doing a spatial autocorrelation analysis for each time slot of the  data and adding these as layers on top of each other, it is possible to analyze how hot and coldspots change in space over time. The method presented in this repository is a simplified version of the ESRI tool and runs in Python alone and can be visualized in QGIS, find the script and QGIS-styling file in the Notebooks folder. 
+The emerging hotspot analysis, inspired by [ESRI](https://pro.arcgis.com/en/pro-app/latest/tool-reference/space-time-pattern-mining/emerginghotspots.htm) , is a method that utilize a three dimensional data set to locate clusters through both time and space. By doing a spatial autocorrelation analysis for each time slot of the  data and adding these as layers on top of each other, it is possible to analyze how hot and coldspots change in space over time. The method presented in this repository is a simplified version of the ESRI tool and runs in Python alone and outputs a shapefile that can be visualized in QGIS, find the script and QGIS-styling file in the Notebooks folder. 
 
 <img src="Images/EU_Emerging_Hotspots.png" width="80%" height="80%">
 
