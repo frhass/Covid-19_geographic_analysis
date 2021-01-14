@@ -3,21 +3,20 @@ This repository inlcudes all the tools developped and used in the article *The g
 The shapefile *AI_Covid_NUTS-Regions.shp* is made to match the regions that the Europeans regions use to report Covid-19 cases to the ECDC, these should be NUTS-2 regions but it varies from country to country. The shapefile contains all the variables used in the modelling: <br>
 * Total infected (dependent variable) <br>
 * Population Density <br>
-Restaurants per cap. <br>
-Cafes per cap. <br>
-Fast Food Places per cap. <br>
-Pubs per cap. <br>
-Bars per cap. <br>
-Gas Stations per cap. <br>
-Schools per cap. <br>
-Doctors’ Offices per cap. <br>
-Kinder gardens per cap. <br>
-Annual mean temperature <br>
-Nitrogen dioxide, year-over-year change <br>
-Particulate matter < 2.5 µm (PM2.5 , year-over-year change <br>
-Non-methane VOCs, year-over-year change <br>
-Particulate matter < 10 µm (PM10), year-over-year change <br>
-
+* Restaurants per cap. <br>
+* Cafes per cap. <br>
+* Fast Food Places per cap. <br>
+* Pubs per cap. <br>
+* Bars per cap. <br>
+* Gas Stations per cap. <br>
+* Schools per cap. <br>
+* Doctors’ Offices per cap. <br>
+* Kinder gardens per cap. <br>
+* Annual mean temperature <br>
+* Nitrogen dioxide, year-over-year change <br>
+* Particulate matter < 2.5 µm (PM2.5 , year-over-year change <br>
+* Non-methane VOCs, year-over-year change <br>
+* Particulate matter < 10 µm (PM10), year-over-year change <br>
 
 ## Animation of Infection Rates
 Visualizing Covid-19 infection rates over time can be done in a single animation. The animation is made by loading a CSV file as a pandas dataframe and plotting each column with a world shapefile, the maps can then be combined in to a single gif. <br>
