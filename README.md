@@ -42,3 +42,6 @@ Plotting how and where the 5 most signifcant variables are explanatory in explai
 ![](Images/GWR_Eval-Metrics.png)
 
 ## Machine Learning Prediction
+The machine learning notebook contains ML-frameworks for predicting Covid-19 infection rates based on the attribute-values of the region, 3 algorithms are included in the notebook: Random Forrest Regressor, Lasso Regression and Support Vector Regression. The predictors output a plot showing how well the test regions have been predicted and the accuracy metrics: accuracy, R2 and MAE
+
+![](Images/RandomForest.png)
