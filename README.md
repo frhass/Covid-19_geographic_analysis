@@ -54,7 +54,7 @@ The notebook also include tools for simple data inspection together with a compl
 
 ---
 
-All feedbacks are appreciated, feel free to reach out on [LinkedIn](https://dk.linkedin.com/in/frederik-hass-310234187)
+All feedbacks are appreciated, feel free to reach out on [LinkedIn](https://dk.linkedin.com/in/frederik-hass-310234187) or [Email](mailto: frederiksh@plan.aau.dk)
 
 
 [This work](https://github.com/frhass/Covid-19_geographic_analysis) is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html) 
