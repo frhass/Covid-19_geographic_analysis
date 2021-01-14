@@ -1,4 +1,23 @@
 # Covid-19 - Tools and Notebooks for Geographic Analysis
+This repository inlcudes all the tools developped and used in the article *The geography of COVID-19 pandemic: a data-driven approach to exploring geographical driving forces* (currently in peer-review). <br>
+The shapefile *AI_Covid_NUTS-Regions.shp* is made to match the regions that the Europeans regions use to report Covid-19 cases to the ECDC, these should be NUTS-2 regions but it varies from country to country. The shapefile contains all the variables used in the modelling: <br>
+* Total infected (dependent variable) <br>
+* Population Density <br>
+Restaurants per cap. <br>
+Cafes per cap. <br>
+Fast Food Places per cap. <br>
+Pubs per cap. <br>
+Bars per cap. <br>
+Gas Stations per cap. <br>
+Schools per cap. <br>
+Doctors’ Offices per cap. <br>
+Kinder gardens per cap. <br>
+Annual mean temperature <br>
+Nitrogen dioxide, year-over-year change <br>
+Particulate matter < 2.5 µm (PM2.5 , year-over-year change <br>
+Non-methane VOCs, year-over-year change <br>
+Particulate matter < 10 µm (PM10), year-over-year change <br>
+
 
 ## Animation of Infection Rates
 Visualizing Covid-19 infection rates over time can be done in a single animation. The animation is made by loading a CSV file as a pandas dataframe and plotting each column with a world shapefile, the maps can then be combined in to a single gif. <br>
@@ -42,8 +61,8 @@ Plotting how and where the 5 most signifcant variables are explanatory in explai
 ![](Images/GWR_Eval-Metrics.png)
 
 ## Machine Learning Prediction
-The machine learning notebook contains ML-frameworks for predicting Covid-19 infection rates based on the attribute-values of the region, 3 algorithms are included in the notebook: Random Forrest Regressor, Lasso Regression and Support Vector Regression. The predictors output a plot showing how well the test regions have been predicted and the accuracy metrics: Accuracy, R2 and MAE
+The machine learning notebook contains ML-frameworks for predicting Covid-19 infection rates based on the attribute-values of the region, 3 algorithms are included in the notebook: Random Forrest Regressor, Lasso Regression and Support Vector Regression. The predictors outputs a plot showing how well the test regions have been predicted, the accuracy metrics: Accuracy, R2 and MAE, and variable importance for the random forrest regression.
 
 ![](Images/RandomForest.png)
 
-Furthermore, the notebook include tools for simple data inspection together with a complete methodology for k-means clustering of the data.
+The notebook also include tools for simple data inspection together with a complete section for carrying out and visualizing k-means clustering of the data.
