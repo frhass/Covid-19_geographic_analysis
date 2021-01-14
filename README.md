@@ -1,6 +1,8 @@
 # Covid-19 - Tools and Notebooks for Geographic Analysis
 This repository inlcudes all the tools developped and used in the article *The geography of COVID-19 pandemic: a data-driven approach to exploring geographical driving forces* (currently in peer-review). <br>
-The shapefile *AI_Covid_NUTS-Regions.shp* is made to match the regions that the Europeans regions use to report Covid-19 cases to the ECDC, these should be NUTS-2 regions but it varies from country to country. The shapefile contains all the variables used in the modelling: Total infected (dependent variable), Population Density, Restaurants per cap., Cafes per cap., Fast Food Places per cap., Pubs per cap., Bars per cap., Gas Stations per cap., Schools per cap., Doctors’ Offices per cap., Kinder gardens per cap., Annual mean temperature, Nitrogen dioxide - yoy change, Particulate matter < 2.5 µm (PM2.5) - yoy change, Non-methane VOCs - yoy change, Particulate matter < 10 µm (PM10) - yoy change.
+The shapefile *AI_Covid_NUTS-Regions.shp* is made to match the regions that the Europeans regions use to report Covid-19 cases to the ECDC, these should be NUTS-2 regions but it varies from country to country. <br>
+The shapefile contains all the variables used in the modelling: <br>
+Total infected (dependent variable), Population Density, Restaurants per cap., Cafes per cap., Fast Food Places per cap., Pubs per cap., Bars per cap., Gas Stations per cap., Schools per cap., Doctors’ Offices per cap., Kinder gardens per cap., Annual mean temperature, Nitrogen dioxide yoy change, Particulate matter < 2.5 µm (PM2.5) yoy change, Non-methane VOCs yoy change, Particulate matter < 10 µm (PM10) yoy change.
 
 ## Animation of Infection Rates
 Visualizing Covid-19 infection rates over time can be done in a single animation. The animation is made by loading a CSV file as a pandas dataframe and plotting each column with a world shapefile, the maps can then be combined in to a single gif. <br>
