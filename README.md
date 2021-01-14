@@ -51,3 +51,7 @@ The machine learning notebook contains ML-frameworks for predicting Covid-19 inf
 ![](Images/RandomForest.png)
 
 The notebook also include tools for simple data inspection together with a complete section for carrying out and visualizing k-means clustering of the data.
+
+
+
+[This work](https://github.com/frhass/Covid-19_geographic_analysis) is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html) 
