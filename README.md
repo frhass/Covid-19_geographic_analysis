@@ -54,6 +54,8 @@ The notebook also include tools for simple data inspection together with a compl
 
 ---
 
+*EOSCsecretariat.eu has received funding from the European Union's Horizon Programme call H2020-INFRAEOSC-05-2018-2019, grant Agreement number 831644*
+
 All feedbacks are appreciated, feel free to reach out on [LinkedIn](https://dk.linkedin.com/in/frederik-hass-310234187) or [Email](mailto:frederiksh@plan.aau.dk?subject=[GitHub]%20Source%20Han%20Sans)
 
 
