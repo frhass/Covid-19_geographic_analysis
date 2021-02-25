@@ -50,7 +50,7 @@ The machine learning notebook contains ML-frameworks for predicting Covid-19 inf
 
 ![](Images/RandomForest.png)
 
-The notebook also include tools for simple data inspection together with a complete section for carrying out and visualizing k-means clustering of the data.
+The prediction models and tools for simple data inspection are included in the notebook *Covid-19_Analysis*.
 
 ---
 
