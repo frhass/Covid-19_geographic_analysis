@@ -50,7 +50,7 @@ The machine learning notebook contains ML-frameworks for predicting Covid-19 inf
 
 ![](Images/RandomForest.png)
 
-The prediction models and tools for simple data inspection are included in the notebook *Covid-19_Analysis*.
+The prediction models and tools for simple data inspection are included in the notebook *Covid-19_Analysis*. The notebook uses the shapefile *AI_Covid_NUTS-Regions.shp*, where all the infection rates and variables are stored in the attributes. 
 
 ---
 
